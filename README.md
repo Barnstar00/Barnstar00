@@ -1,12 +1,23 @@
-## I am expert of the Kiosk app of wayfinder.
-### I have solid experience with indoor and outdoor multi level wayfinder kiosk app development.
-### And also mobile soultion of IPS(Indoor Position System) of smart building.
+## Kiosk Specialist
 
-Enriching the customers’ experience enrichens you!
-With this idea, many business introduce the wayfinder kiosk app for it's smart building.
-Now kiosk is widely introduced in retail, hospital, university, transport and all smart buildings.
-I am alway with you and I will help you to success your business.
-Thanks.
+# If you want the smart building with morder indoor navigation system, I will help you to accomplish.
+# Enriching the customers’ experience enrichens you! With this idea, many business introduce the wayfinder kiosk app for it's smart building. Now kiosk is widely introduced in retail, hospital, university, transport and all smart buildings.
+
+<div>
+<img align="right" alt="GIF" src="https://github.com/Barnstar00/Wayfinder-Kiosk/blob/master/internals/front/1.jpg" width="500" />
+ 
+### Ksiok witl electron
+𝘞𝘦 𝘤𝘢𝘯 provide the electron kiosk solution with react js ui.
+
+### Android Kiosk
+Now there is some kiosk devices of android. I can provide you the android soulution too.
+
+### NFT Marketplace 
+NFT is the big field of DeFi space now. I can provide your erc721 and erc1155 solution on etherum network and binace smart chain.
+
+</div>
+
+
 <!--
 **Barnstar00/Barnstar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

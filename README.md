@@ -1,7 +1,7 @@
-## Kiosk Specialist
+# Kiosk Specialist
 
-# If you want the smart building with morder indoor navigation system, I will help you to accomplish.
-# Enriching the customers’ experience enrichens you! With this idea, many business introduce the wayfinder kiosk app for it's smart building. Now kiosk is widely introduced in retail, hospital, university, transport and all smart buildings.
+### If you want the smart building with morder indoor navigation system, I will help you to accomplish.
+### Enriching the customers’ experience enrichens you! With this idea, many business introduce the wayfinder kiosk app for it's smart building. Now kiosk is widely introduced in retail, hospital, university, transport and all smart buildings.
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/Barnstar00/Wayfinder-Kiosk/blob/master/internals/front/1.jpg" width="500" />

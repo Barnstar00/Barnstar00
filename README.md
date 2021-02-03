@@ -10,7 +10,7 @@
 I 𝘤𝘢𝘯 provide the electron kiosk solution with react js ui.
 
 ### Android Kiosk
-Now there is some kiosk devices of android. I can provide you the android soulution too.
+Now there are android kiosk devices too. I can provide you the android soulution too.
 
 ### NFT Marketplace 
 NFT is the big field of DeFi space now. I can provide your erc721 and erc1155 solution on etherum network and binace smart chain.

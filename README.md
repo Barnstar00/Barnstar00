@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/Barnstar00/Wayfinder-Kiosk/blob/master/internals/front/1.jpg" width="500" />
  
 ### Kiosk with electron
-𝘞𝘦 𝘤𝘢𝘯 provide the electron kiosk solution with react js ui.
+I 𝘤𝘢𝘯 provide the electron kiosk solution with react js ui.
 
 ### Android Kiosk
 Now there is some kiosk devices of android. I can provide you the android soulution too.

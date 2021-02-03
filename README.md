@@ -6,7 +6,7 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/Barnstar00/Wayfinder-Kiosk/blob/master/internals/front/1.jpg" width="500" />
  
-### Ksiok witl electron
+### Ksiok with electron
 𝘞𝘦 𝘤𝘢𝘯 provide the electron kiosk solution with react js ui.
 
 ### Android Kiosk

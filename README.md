@@ -1,4 +1,4 @@
-# Kiosk Specialist
+# NFT of DeFi and Kiosk Specialist
 
 ### If you want the smart building with mordern indoor navigation system, I will help you to accomplish.
 ### Enriching the customers’ experience enrichens you! With this idea, many business introduce the wayfinder kiosk app for it's smart building. Now kiosk is widely introduced in retail, hospital, university, transport and all smart buildings.

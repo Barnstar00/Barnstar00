@@ -1,12 +1,8 @@
-# NFT of DeFi and Kiosk Specialist
-
-### If you want the smart building with mordern indoor navigation system, I will help you to accomplish.
-### Enriching the customers’ experience enrichens you! With this idea, many business introduce the wayfinder kiosk app for it's smart building. Now kiosk is widely introduced in retail, hospital, university, transport and all smart buildings.
+# NFT of DeFi and Electron Kiosk Specialist
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/Barnstar00/Wayfinder-Kiosk/blob/master/internals/front/5.jpg" width="500" />
  
-### Kiosk with electron
+### Electron Kiosk 
 I 𝘤𝘢𝘯 provide the electron kiosk solution with react js ui.
 
 ### Android Kiosk

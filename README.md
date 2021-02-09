@@ -1,14 +1,8 @@
-# NFT of DeFi and Electron Kiosk Specialist
+# NFT of DeFi and Electron
 
 <div>
- 
-### Electron Kiosk 
-I 𝘤𝘢𝘯 provide the electron kiosk solution with react js ui.
 
-### Android Kiosk
-Now there are android kiosk devices too. I can provide you the android soulution too.
-
-### NFT Marketplace 
+### NFT Marketplace with OpenSea
 NFT is the big field of DeFi space now. I can provide your erc721 and erc1155 solution on etherum network and binace smart chain.
 
 </div>
